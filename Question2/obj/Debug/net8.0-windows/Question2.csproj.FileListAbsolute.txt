@@ -1,0 +1,422 @@
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.exe
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.deps.json
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.runtimeconfig.json
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.pdb
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2_MarkupCompile.cache
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2_MarkupCompile.lref
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.g.resources
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.AssemblyInfo.cs
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.Up2Date
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\refint\Question2.dll
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.pdb
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.genruntimeconfig.cache
+C:\Users\admin\Downloads\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\ref\Question2.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.exe
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.deps.json
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.runtimeconfig.json
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.pdb
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.AssemblyReference.cache
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\App.g.cs
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2_MarkupCompile.cache
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2_MarkupCompile.lref
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.g.resources
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.AssemblyInfoInputs.cache
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.AssemblyInfo.cs
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.CoreCompileInputs.cache
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.Up2Date
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\refint\Question2.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.pdb
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.genruntimeconfig.cache
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\ref\Question2.dll
+D:\Downloads\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\appsettings.json
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.exe
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\appsettings.json
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.deps.json
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.runtimeconfig.json
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Question2.pdb
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.AssemblyReference.cache
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\App.g.cs
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2_MarkupCompile.cache
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2_MarkupCompile.lref
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.g.resources
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.AssemblyInfoInputs.cache
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.AssemblyInfo.cs
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.CoreCompileInputs.cache
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.csproj.Up2Date
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\refint\Question2.dll
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.pdb
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\Question2.genruntimeconfig.cache
+D:\Thi Thu\Thi Thu PE\PRN212_GivenSolution\Question2\obj\Debug\net8.0-windows\ref\Question2.dll
